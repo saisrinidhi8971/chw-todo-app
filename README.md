@@ -34,7 +34,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-##Note
+## Note
 The code created for this project was influenced by and used references from a number of sources. External resources were utilized to help with the development process because of time restrictions and the necessity to learn quickly. In order to speed up development and improve the user interface, Bootstrap and jQuery technologies were also used.
 
 Despite this, the project successfully fulfills the requirements of the design interview task and showcases the ability to learn and implement new technologies within a tight deadline.
