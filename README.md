@@ -44,5 +44,5 @@ Feel free to explore the codebase, experiment with the application, and further 
 
 Don't hesitate to reach out if you have any questions or feedback to saisrinidhi0009@gmail.com.
 
-Author: Ch Sai Srinidhi  
-Date:23 june 2023
+**Author:** Ch Sai Srinidhi  
+**Date:** June 27, 2023
