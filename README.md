@@ -2,12 +2,12 @@
 
 This project was created as part of a design interview task for an unbranded company. The objective of the project was to build a simple Todo List application.
 
-# Project Overview
+## Project Overview
 - **Back-End:** Node.js
 - **Front-End:** Angular
 - **Front-End Libraries:** Bootstrap, jQuery
 
-The project consists of a Back-End component built using Node.js and a Front-End component created using the Angular framework. The primary functionality of the application is to manage a list of tasks (Todo List) where users can add, edit, and delete tasks. Additionally, Bootstrap and jQuery libraries have been integrated into the project to enhance the user interface and user experience
+The project consists of a Back-End component built using Node.js and a Front-End component created using the Angular framework. The primary functionality of the application is to manage a list of tasks (Todo List) where users can add, edit, and delete tasks. Additionally, Bootstrap and jQuery libraries have been integrated into the project to enhance the user interface and user experience.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
 
