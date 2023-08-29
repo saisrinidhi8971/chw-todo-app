@@ -2,7 +2,7 @@
 
 This project was created as part of a design interview task for an unbranded company. The objective of the project was to build a simple Todo List application.
 
-#Project Overview
+# Project Overview
 Back-End: Node.js
 Front-End: Angular
 Front-End Libraries: Bootstrap, jQuery
